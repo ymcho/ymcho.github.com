@@ -8,7 +8,7 @@ tagline:
 ### 자주쓰는 언어
  
  - web(javascript, jquery, css, html, actionscript)
- - s/w(Objective C#)
+ - s/w(Objective-C, C#)
 
    
 ### SNS
