@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
+        <title>YMCho's Blog</title>
+        <description>YMCho's Blog - YongMin Cho</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2014-03-15T12:25:49+09:00</lastBuildDate>
-        <pubDate>2014-03-15T12:25:49+09:00</pubDate>
+        <lastBuildDate>2014-04-01T10:57:31+09:00</lastBuildDate>
+        <pubDate>2014-04-01T10:57:31+09:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>jeKyll 블로그 시작</title>
+                <description>&lt;p&gt;매번 블로그에 글도 쓰고 책읽은것 요약도하고 이것저것 관심사에 대해 써보려고 해도 귀찮아서 쓰지 않게 된다.&lt;/p&gt;
+
+&lt;p&gt;지금까지 CMS는 갈아타기만 했지 글을 제대로 써보진 않았다. 제로보드 -&amp;gt; 세팔보드-&amp;gt; textCube -&amp;gt; 워드프레스 -&amp;gt; 하루프레스 -&amp;gt; 옥토프레스 -&amp;gt; jekyll 이렇게 갈아타왔다.&lt;/p&gt;
+
+&lt;p&gt;사실 어떤 CMS를 쓴다고 해서 글이 잘 써지는 것도 아니고 요번에는 일상생활, 책, 관심사에 대해 자주 써봐야겠다.&lt;/p&gt;</description>
+                <link>http://username.github.io/diary/2014/03/28/jekyll--</link>
+                <guid>http://username.github.io/diary/2014/03/28/jekyll--</guid>
+                <pubDate>2014-03-28T00:00:00+09:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
