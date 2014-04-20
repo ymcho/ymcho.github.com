@@ -17,12 +17,9 @@ tags: [diary]
   
 ![대공원](https://lh6.googleusercontent.com/-__oOIFFyZJI/U1KjieoJ5DI/AAAAAAAABH8/9TMEPggVcYg/w568-h757-no/IMG_1616.jpg)  
 서울대공원나들이 미세먼지가 없어서인지 사람들이 많았다. 이앞에서 사진찍는 것도 줄을 섰다.  
-
-![민방위](https://lh4.googleusercontent.com/-M33Tw2Rpi8U/U1KjjM0ikNI/AAAAAAAABH8/a9EfPEGjn1s/w914-h686-no/IMG_1687.jpg)  
-민방위 훈련 심폐소생술은 배울만 했다.
-
+  
 ![소화아동병워](https://lh6.googleusercontent.com/-zwCi9NJ-5-c/U1KjlBew6-I/AAAAAAAABH8/qMjN9U1il8Y/w914-h686-no/IMG_1688.jpg)  
-민방위 훈련 끝나고 오후에 폐렴 증상이 있어 입원한 주한이 병문. 자는 모습만 보고 나왔다. 빨리 낫길...
+폐렴 증상이 있어 입원한 주한이 병문. 자는 모습만 보고 나왔다. 빨리 낫길...
 
 ![동대문역사공원](https://lh6.googleusercontent.com/-rMtL5cGRwek/U1Kjl8hZSBI/AAAAAAAABH8/5fh9AbS5GCw/w914-h686-no/IMG_1694.jpg)  
 병문안 끝나고 시간 남아 동대문역사공원 방문 괴상한 디자인이라고 생각했는데 와보니 멋지다.  
@@ -33,6 +30,9 @@ DDP안에 있는 옥루몽에서 팥빙수 한사발 첨먹어봤는데 맛있�
 ![디캠프](https://lh5.googleusercontent.com/-DZUDx3NkjtQ/U1KjmwrC-cI/AAAAAAAABH8/db9oFLOfNTc/w568-h757-no/IMG_1697.jpg)  
 DDP에서 선정릉 D-캠프로 이동 프로그래밍 공부하고 정모 만나 이것저것 이야기함.  
   
+![산책](https://lh6.googleusercontent.com/-EoaVSG9sTG0/U1KjnFoofzI/AAAAAAAABH8/G8vfEXtoLjk/w822-h617-no/IMG_1700.jpg)  
+단지내 산책 오늘 미세먼지도 없고해서 오랜만에 예찬이와 산책.
+
 ![산책](https://lh3.googleusercontent.com/-FCeotQPkb9o/U1KjnjGF1LI/AAAAAAAABH8/r9JZs6F8V8E/w568-h757-no/IMG_1707.jpg)  
 신난 예찬이 여기가 흙이 옷에 묻지 않고 놀기 좋다.  
 
