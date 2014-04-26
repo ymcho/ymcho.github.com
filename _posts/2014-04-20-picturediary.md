@@ -2,8 +2,8 @@
 layout: post
 title: "14-4-20 맥북셋팅, 병원, 대공원, 와이프생일"
 description: ""
-category: diary
-tags: [diary]
+category: Diary
+tags: [Diary]
 ---
 {% include JB/setup %}
 ![자리정리](https://lh6.googleusercontent.com/-h9VVmf_wl3k/U1KjW0PBOKI/AAAAAAAABIE/GeQuT93yphU/w914-h646-no/IMG_1671.JPG)  
