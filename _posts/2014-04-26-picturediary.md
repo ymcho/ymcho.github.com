@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014-4-26 백화점, 이어폰, 육아, 일러스트"
+title: "14-4-26 백화점, 이어폰, 육아, 일러스트"
 description: ""
 category: Diary
 tags: [Diary]
@@ -46,7 +46,7 @@ tags: [Diary]
 경마장 오리집 진흙구이도 맛있지만 주변반찬이 더 맛있는 집.. 중고등학교 때 부터 쭉 오던집 맛있다.  
   
 ![자려는예찬](https://lh4.googleusercontent.com/-E75hpXMZyyo/U1p1upYrPNI/AAAAAAAABLw/o9y9QyydPX0/s640/IMG_1822.jpg)  
-잠자기 직전 예찬 이렇게 인장 가지고 뒹굴다가 어느새 잠이든다.  
+잠자기 직전 예찬 이렇게 인형 가지고 뒹굴다가 어느새 잠이든다.  
   
 ![이어폰구입](https://lh5.googleusercontent.com/-fIORmTYatkU/U1p1uwc3uRI/AAAAAAAABL4/lxpL1IeKsSE/s640/IMG_1833.jpg)  
 태어나서 처음으로 59000원짜리 이어폰 구입.  

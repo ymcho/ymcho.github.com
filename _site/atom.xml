@@ -4,7 +4,7 @@
  <title>YMCho's Blog</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2014-04-26T15:36:21+09:00</updated>
+ <updated>2014-04-27T01:51:51+09:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>YongMin Cho</name>
@@ -13,7 +13,15 @@
 
  
  <entry>
-   <title>2014-4-26 백화점, 이어폰, 육아, 일러스트</title>
+   <title>14-3-4 EBS 매일매일 영어소원</title>
+   <link href="http://username.github.io/engstudy/2014/04/27/ebs-lang"/>
+   <updated>2014-04-27T00:00:00+09:00</updated>
+   <id>http://username.github.io/engstudy/2014/04/27/ebs-lang</id>
+   <content type="html">&lt;div id=&#39;fb-root&#39; /&gt;&lt;script&gt;(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = &quot;//connect.facebook.net/ko_KR/all.js#xfbml=1&quot;; fjs.parentNode.insertBefore(js, fjs); }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;&lt;div class=&#39;fb-post&#39; data-href=&#39;https://www.facebook.com/photo.php?v=218507005010367&#39; data-width=&#39;466&#39;&gt;&lt;div class=&#39;fb-xfbml-parse-ignore&#39;&gt;&lt;a href=&#39;https://www.facebook.com/ebslangstory&#39;&gt;EBSlang&lt;/a&gt;님의 &lt;a href=&#39;https://www.facebook.com/photo.php?v=218507005010367&#39;&gt;글&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>14-4-26 백화점, 이어폰, 육아, 일러스트</title>
    <link href="http://username.github.io/diary/2014/04/26/picturediary"/>
    <updated>2014-04-26T00:00:00+09:00</updated>
    <id>http://username.github.io/diary/2014/04/26/picturediary</id>
@@ -43,7 +51,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-siAiyz-CGP8/U1p1tJN2P8I/AAAAAAAABLk/7txT3chvEgY/s576/IMG_1821.JPG&quot; alt=&quot;외식&quot; /&gt;&lt;br /&gt;경마장 오리집 진흙구이도 맛있지만 주변반찬이 더 맛있는 집.. 중고등학교 때 부터 쭉 오던집 맛있다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-E75hpXMZyyo/U1p1upYrPNI/AAAAAAAABLw/o9y9QyydPX0/s640/IMG_1822.jpg&quot; alt=&quot;자려는예찬&quot; /&gt;&lt;br /&gt;잠자기 직전 예찬 이렇게 인장 가지고 뒹굴다가 어느새 잠이든다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-E75hpXMZyyo/U1p1upYrPNI/AAAAAAAABLw/o9y9QyydPX0/s640/IMG_1822.jpg&quot; alt=&quot;자려는예찬&quot; /&gt;&lt;br /&gt;잠자기 직전 예찬 이렇게 인형 가지고 뒹굴다가 어느새 잠이든다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-fIORmTYatkU/U1p1uwc3uRI/AAAAAAAABL4/lxpL1IeKsSE/s640/IMG_1833.jpg&quot; alt=&quot;이어폰구입&quot; /&gt;&lt;br /&gt;태어나서 처음으로 59000원짜리 이어폰 구입.&lt;br /&gt;하이마트에서 69000원에 파는건데 만원 깍아준다고 해서 낼름 샀는데..&lt;br /&gt;검색해보니 45000원에 팔고 있음. 좀 마음이 그렇지만 다시가기 귀찮아서 패스.&lt;/p&gt;</content>
  </entry>
