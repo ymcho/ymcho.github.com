@@ -9,7 +9,6 @@ http://username.github.io/rss.xml
 http://username.github.io/sitemap.txt
 http://username.github.io/tags.html
 
-http://username.github.io/engstudy/2014/04/27/ebs-lang
 http://username.github.io/diary/2014/04/26/picturediary
 http://username.github.io/diary/2014/04/20/picturediary
 http://username.github.io/diary/2014/03/28/jekyll--
