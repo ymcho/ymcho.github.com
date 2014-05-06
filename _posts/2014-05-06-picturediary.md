@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014-5-6 어린이날, 연휴, 대청소"
+title: "14-5-6 어린이날, 연휴, 대청소"
 description: ""
 category: Diary
 tags: [Diary]
