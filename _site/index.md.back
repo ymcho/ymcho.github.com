@@ -146,6 +146,8 @@ Here's a sample "posts list".
 
 <ul class="posts">
   
+    <li><span>02 Jun 2014</span> &raquo; <a href="/diary/2014/06/02/picturediary">14-6-2 휴가, 제주도, 대공원</a></li>
+  
     <li><span>06 May 2014</span> &raquo; <a href="/diary/2014/05/06/picturediary">14-5-6 어린이날, 연휴, 대청소</a></li>
   
     <li><span>26 Apr 2014</span> &raquo; <a href="/diary/2014/04/26/picturediary">14-4-26 백화점, 이어폰, 육아, 일러스트</a></li>
